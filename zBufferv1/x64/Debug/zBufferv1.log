@@ -1,0 +1,17 @@
+﻿  NodeACPT.cpp
+  NodeACST.cpp
+  Obj.cpp
+e:\homework\cad\repo\zbufferv1\zbufferv1\obj.cpp(280): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\homework\cad\repo\zbufferv1\zbufferv1\obj.cpp(332): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+e:\homework\cad\repo\zbufferv1\zbufferv1\obj.cpp(333): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  zBufferv1.cpp
+  正在生成代码...
+  zBufferv1.vcxproj -> E:\homework\CAD\repo\zBufferv1\x64\Debug\zBufferv1.exe

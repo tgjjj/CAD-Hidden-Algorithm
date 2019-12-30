@@ -1,0 +1,8 @@
+﻿  Obj.cpp
+  Tools.cpp
+e:\homework\cad\repo\zbufferv1\zbufferv1\tools.cpp(9): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\homework\cad\repo\zbufferv1\zbufferv1\tools.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+e:\homework\cad\repo\zbufferv1\zbufferv1\tools.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+e:\homework\cad\repo\zbufferv1\zbufferv1\tools.cpp(31): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  zBufferv1.vcxproj -> E:\homework\CAD\repo\zBufferv1\Debug\zBufferv1.exe
